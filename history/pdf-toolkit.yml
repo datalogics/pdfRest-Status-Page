@@ -1,7 +1,7 @@
-url: $STATUS_URL/up
-status: down
-code: 404
-responseTime: 202
-lastUpdated: 2023-09-07T21:03:35.939Z
+url: $STATUS_URL
+status: up
+code: 200
+responseTime: 194
+lastUpdated: 2023-09-07T21:08:05.766Z
 startTime: 2023-09-07T21:03:35.640Z
 generator: Upptime <https://github.com/upptime/upptime>

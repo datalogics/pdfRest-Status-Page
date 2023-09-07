@@ -1,42 +1,42 @@
 [
   {
     "name": "PDF Toolkit",
-    "url": "$STATUS_URL/up",
+    "url": "$STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-toolkit",
-    "status": "down",
-    "uptime": "1.07%",
-    "uptimeDay": "1.07%",
-    "uptimeWeek": "1.07%",
-    "uptimeMonth": "1.07%",
-    "uptimeYear": "1.07%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "status": "up",
+    "uptime": "2.14%",
+    "uptimeDay": "2.14%",
+    "uptimeWeek": "2.14%",
+    "uptimeMonth": "2.14%",
+    "uptimeYear": "2.14%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 5
     }
   },
   {
     "name": "PDF Forms Pro",
-    "url": "$STATUS_URL/up",
+    "url": "$STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-forms-pro",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 36,
-    "timeDay": 36,
-    "timeWeek": 36,
-    "timeMonth": 36,
-    "timeYear": 36,
+    "status": "up",
+    "uptime": "1.21%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "1.21%",
+    "uptimeMonth": "1.21%",
+    "uptimeYear": "1.21%",
+    "time": 37,
+    "timeDay": 37,
+    "timeWeek": 37,
+    "timeMonth": 37,
+    "timeYear": 37,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 5
     }
   }
 ]

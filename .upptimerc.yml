@@ -17,7 +17,7 @@ status-website:
   name: pdfRest Cloud API Uptime Status
   favicon: https://cdn.statically.io/gh/datalogics/pdfRest-Status-Page/667e9205/assets/pdfrest_favicon.ico
   introTitle: "**pdfRest Cloud API Uptime Status**"
-  introMessage: Average response time is the interval it takes to receive, process, and return a response to API calls for each endpoint. Processing typically accounts for a majority of this time.
+  introMessage: Average response time is the interval it takes to receive and return a response for each API Toolkit.
   navbar:
     - title: Status
       href: /

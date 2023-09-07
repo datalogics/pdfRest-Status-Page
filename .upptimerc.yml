@@ -2,11 +2,11 @@ owner: datalogics
 repo: pdfRest-Status-Page
 sites:
   - name: PDF Toolkit
-    url: $STATUS_URL/up
+    url: $STATUS_URL
     headers:
       - "wsn: $WSN_STATUS"
   - name: PDF Forms Pro
-    url: $STATUS_URL/up
+    url: $STATUS_URL
     headers:
       - "wsn: $WSN_STATUS_FORMS"
 assignees:

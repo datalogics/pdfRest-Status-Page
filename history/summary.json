@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-toolkit",
     "status": "up",
-    "uptime": "2.14%",
-    "uptimeDay": "2.14%",
-    "uptimeWeek": "2.14%",
-    "uptimeMonth": "2.14%",
-    "uptimeYear": "2.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 198,
     "timeWeek": 198,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2023-09-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PDF Forms Pro",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-forms-pro",
     "status": "up",
-    "uptime": "1.21%",
-    "uptimeDay": "1.21%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 37,
     "timeDay": 37,
     "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-09-07": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]

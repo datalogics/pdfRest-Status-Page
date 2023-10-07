@@ -1,7 +1,7 @@
 [
   {
     "name": "PDF Toolkit",
-    "url": "$STATUS_URL",
+    "url": "$TARGET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-toolkit",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 216,
-    "timeWeek": 209,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 198,
+    "timeDay": 116,
+    "timeWeek": 183,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
     "name": "PDF Forms Pro",
-    "url": "$STATUS_URL",
+    "url": "$TARGET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-forms-pro",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 38,
-    "timeDay": 41,
-    "timeWeek": 40,
-    "timeMonth": 38,
-    "timeYear": 38,
+    "time": 37,
+    "timeDay": 15,
+    "timeWeek": 33,
+    "timeMonth": 37,
+    "timeYear": 37,
     "dailyMinutesDown": {}
   }
 ]

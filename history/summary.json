@@ -22,19 +22,19 @@
     "url": "$TARGET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-forms-pro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 38,
-    "timeDay": 60,
-    "timeWeek": 38,
+    "timeDay": 39,
+    "timeWeek": 35,
     "timeMonth": 39,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2023-11-19": 0
+      "2023-11-19": 25
     }
   }
 ]

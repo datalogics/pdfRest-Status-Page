@@ -1,7 +1,7 @@
-url: $TARGET_SITE
+url: $PDFREST_SITE/up
 status: up
 code: 200
-responseTime: 192
-lastUpdated: 2023-11-27T23:03:01.073Z
+responseTime: 104
+lastUpdated: 2023-11-28T23:03:04.663Z
 startTime: 2023-09-07T21:03:35.640Z
 generator: Upptime <https://github.com/upptime/upptime>

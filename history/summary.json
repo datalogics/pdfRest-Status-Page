@@ -1,7 +1,7 @@
 [
   {
     "name": "PDF Toolkit",
-    "url": "$TARGET_SITE",
+    "url": "$PDFREST_SITE/up",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-toolkit",
     "status": "up",
@@ -19,7 +19,7 @@
   },
   {
     "name": "PDF Forms Pro",
-    "url": "$TARGET_SITE",
+    "url": "$PDFREST_SITE/up-forms",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-forms-pro",
     "status": "up",
@@ -36,5 +36,23 @@
     "dailyMinutesDown": {
       "2023-11-19": 25
     }
+  },
+  {
+    "name": "PDF to Office Pro",
+    "url": "$PDFREST_SITE/up-office",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "pdf-to-office-pro",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 13,
+    "timeDay": 13,
+    "timeWeek": 13,
+    "timeMonth": 13,
+    "timeYear": 13,
+    "dailyMinutesDown": {}
   }
 ]

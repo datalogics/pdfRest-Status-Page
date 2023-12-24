@@ -42,9 +42,9 @@
     "url": "$PDFREST_SITE/up-office",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-to-office-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 27,
     "timeMonth": 34,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   }
 ]

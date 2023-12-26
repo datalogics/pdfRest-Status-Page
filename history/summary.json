@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 290,
-    "timeWeek": 177,
-    "timeMonth": 189,
-    "timeYear": 197,
+    "time": 198,
+    "timeDay": 317,
+    "timeWeek": 209,
+    "timeMonth": 196,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 37,
-    "timeDay": 77,
-    "timeWeek": 35,
-    "timeMonth": 36,
-    "timeYear": 37,
+    "time": 38,
+    "timeDay": 69,
+    "timeWeek": 42,
+    "timeMonth": 38,
+    "timeYear": 38,
     "dailyMinutesDown": {
       "2023-11-19": 25
     }
@@ -44,15 +44,15 @@
     "slug": "pdf-to-office-pro",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 35,
-    "timeDay": 46,
-    "timeWeek": 32,
-    "timeMonth": 35,
-    "timeYear": 35,
+    "time": 36,
+    "timeDay": 70,
+    "timeWeek": 39,
+    "timeMonth": 36,
+    "timeYear": 36,
     "dailyMinutesDown": {
       "2023-12-24": 25
     }
